@@ -3,7 +3,7 @@ public class Doctor {
     /**
      *This class find related doctor for specific illness, based on patient's trusted doctors.
      * @author Ali Rezaei lal
-     * @version 1.0 2020
+     * @version 1.0 2021
      */
 
         //patient's history
